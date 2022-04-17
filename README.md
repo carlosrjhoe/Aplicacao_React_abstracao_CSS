@@ -20,3 +20,11 @@ Entendendo os problemas de conflitos de nomes de classes com CSS,  como usar o S
 - Criando variáveis para cores do projeto
 - Utilizando propriedades em Componentes estilizados
 
+# Aula 03:
+
+## Nessa aula aprendemos:
+
+- Porque usar inline styles é algo ruim
+- Como usar Heranças de estilo
+- Sobre possíveis problemas de performance caso um Styled Component seja declarado dentro de um outro componente React
+- Como tratar de media queries dentro dos componentes estilizados
