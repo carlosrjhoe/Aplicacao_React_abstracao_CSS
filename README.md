@@ -10,3 +10,13 @@ Entendendo os problemas de conflitos de nomes de classes com CSS,  como usar o S
 - Sobre a geração automática de classes
 - Como transferir código CSS para meu componente estilizado
 
+# Aula 02:
+
+## Nessa aula aprendemos:
+
+- Usando o reset global do projeto com o Styled Components
+- Criando estilos globais para a aplicação
+- Importando fontes do google para o projeto
+- Criando variáveis para cores do projeto
+- Utilizando propriedades em Componentes estilizados
+
